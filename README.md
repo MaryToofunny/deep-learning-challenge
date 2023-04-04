@@ -27,6 +27,8 @@ For this I will create a neural network by using Data Manipulation, creating tra
    - 3 Hidden Layers 
    - 80 neurons (Layer1), 30 neurons(Layer2), 10 neurons(Layer3)
    - Used Relu and Sigmoid Activations Functions since sigmoid is best for binary classifcation problems as this and relu is for nonlinear datasets.
+   <img width="608" alt="image" src="https://user-images.githubusercontent.com/116314027/229873291-88c8277f-7278-4895-9802-e3d65f53a958.png">
+
      
   **Attempt #3**
    - used hyperparameter option
